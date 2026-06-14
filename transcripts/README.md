@@ -37,12 +37,25 @@ This submission was developed with significant AI assistance. Below are the conv
 
 ---
 
+## Additional Web & Project Chats
+
+In addition to the Antigravity IDE coding assistant sessions, the following web tools and projects were used:
+
+### ChatGPT Web Chat (Prompt Generation)
+- **Share Link:** https://chatgpt.com/share/6a2ed137-ca28-83ee-b0d4-f2b939031fca
+- **Local Transcript:** [Chatgpt(Web)Transcripts.md](file:///c:/Users/Admin/Desktop/BhuMe/bhume-starter-kit/transcripts/Chatgpt(Web)Transcripts.md)
+- **Purpose:** Used for generating the initial templates and structures for `prompt.md` and `instructions.md`.
+
+### Claude Project (Prompt Setup & Structuring)
+- **Project Link:** https://claude.ai/project/019ebd60-94b4-768c-97c7-67131eb6b83c
+- **Local Transcript:** [ClaudeTranscripts.md](file:///c:/Users/Admin/Desktop/BhuMe/bhume-starter-kit/transcripts/ClaudeTranscripts.md)
+- **Purpose:** Created files, ran validation commands, and set up structured definitions based on project criteria.
+
+---
+
 ## Note on AI Transcript Export
 
 The Antigravity IDE does not provide a direct "share link" or exportable transcript file.
-This README documents the AI-assisted workflow in full detail, per the assignment guidance:
-*"For web chats that only give a share link, list those links in transcripts/README.md."*
+This README documents the AI-assisted workflow in full detail, per the assignment guidance.
+All other web transcripts are listed above and saved locally as markdown files.
 
-All code decisions, iteration history, and calibration analysis are captured in the
-[`walkthrough.md`](../walkthrough.md) (if present) and in the inline comments of
-[`solve.py`](../solve.py).
